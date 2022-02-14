@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+
+}
+
+.container{
+    height: 500px;
+    width: 500px;
+    border: 2px solid rgb(80, 67, 67);
+}
+
+.inputs{
+    display: flex;
+}
+
+input{
+    height: 27px;
+    margin-top: 17px;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+}
